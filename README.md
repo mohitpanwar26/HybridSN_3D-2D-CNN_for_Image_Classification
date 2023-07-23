@@ -2,6 +2,11 @@
 
 Implemented the paper :- HybridSN_Exploring_3-D2-D_CNN_Feature_Hierarchy_for_Hyperspectral_Image_Classification (https://ieeexplore.ieee.org/document/8736016)
 
+# HybridSN
+ 1- HybridSN is a hybrid CNN architecture that combines 3-D and 2-D CNNs to exploit the spatial and spectral information of hyperspectral images. 
+ 2- The proposed architecture first extracts spectral features using a 3-D CNN and then spatial features using a 2-D CNN. 
+ 3- The two streams are then combined to classify the hyperspectral image.
+
 
 How to run the code :
  
